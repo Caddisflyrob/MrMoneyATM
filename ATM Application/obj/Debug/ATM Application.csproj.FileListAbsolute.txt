@@ -1,0 +1,9 @@
+L:\College Stuff\System Design\ATM Application\ATM Application\bin\Debug\ATM Application.exe.config
+L:\College Stuff\System Design\ATM Application\ATM Application\bin\Debug\ATM Application.exe
+L:\College Stuff\System Design\ATM Application\ATM Application\bin\Debug\ATM Application.pdb
+L:\College Stuff\System Design\ATM Application\ATM Application\obj\Debug\ATM Application.csprojResolveAssemblyReference.cache
+L:\College Stuff\System Design\ATM Application\ATM Application\obj\Debug\ATM_Application.Form1.resources
+L:\College Stuff\System Design\ATM Application\ATM Application\obj\Debug\ATM_Application.Properties.Resources.resources
+L:\College Stuff\System Design\ATM Application\ATM Application\obj\Debug\ATM Application.csproj.GenerateResource.Cache
+L:\College Stuff\System Design\ATM Application\ATM Application\obj\Debug\ATM Application.exe
+L:\College Stuff\System Design\ATM Application\ATM Application\obj\Debug\ATM Application.pdb
